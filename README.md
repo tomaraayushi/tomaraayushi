@@ -4,9 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Analyst | Data Enthusiast | Data Scientist
 -----------------------------------------------
 
-Data Enthusiast with a strong academic background in Physics. Proficient in utilizing my research and analyzing skills to provide data ready for use in reporting, modeling, or complex analyses, landing, processing, and presenting data in a comprehensible manner, making sense of it. Some of my top achievements to date: - Published research paper in the book 'Ultrasonics and Materials Science for Advanced Applications - Presented research findings that give a high scope of advanced applications in the diagnosis of cancer and other treatments
+Data Enthusiast with a strong academic background in Physics. Proficient in utilizing my research and analyzing skills to provide data ready for use in reporting, modeling, or complex analyses, landing, processing, and presenting data in a comprehensible manner, making sense of it. 
+
+Some of my top achievements to date:
+- Published research paper in the book 'Ultrasonics and Materials Science for Advanced Applications
+- Presented research findings that give a high scope of advanced applications in the diagnosis of cancer and other treatments
 
 * 🌍  I'm based in Amsterdam, Netherlands
+* 🖥️  See my portfolio at [MyPortfolio](http://tomaraayushi.github.io/)
 * ✉️  You can contact me at [aayushitomar1998@gmail.com](mailto:aayushitomar1998@gmail.com)
 * 🧠  I'm learning Data Science , Machine Learning
 * 🤝  I'm open to collaborating on Data Analysis Projects
