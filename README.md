@@ -11,7 +11,6 @@ Some of my top achievements to date:
 - Presented research findings that give a high scope of advanced applications in the diagnosis of cancer and other treatments
 
 * 🌍  I'm based in Amsterdam, Netherlands
-* 🖥️  See my portfolio at [MyPortfolio](http://tomaraayushi.github.io/)
 * ✉️  You can contact me at [aayushitomar1998@gmail.com](mailto:aayushitomar1998@gmail.com)
 * 🧠  I'm learning Data Science , Machine Learning
 * 🤝  I'm open to collaborating on Data Analysis Projects
