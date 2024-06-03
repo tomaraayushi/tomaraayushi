@@ -4,10 +4,10 @@ Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 Data Analyst | Data Enthusiast | Data Scientist
 -----------------------------------------------
 
-Data Enthusiast with a strong academic background in Physics. Proficient in utilizing my research and analyzing skills to provide data ready for use in reporting, modeling, or complex analyses, landing, processing, and presenting data in a comprehensible manner, making sense of it. 
+Data Analyst with a strong academic background in Physics. Proficient in utilizing my research and analyzing skills to provide data ready for use in reporting, modeling, or complex analyses, landing, processing, and presenting data in a comprehensible manner, making sense of it. 
 
 Some of my top achievements to date:
-- Published research paper in the book 'Ultrasonics and Materials Science for Advanced Applications
+- Published research paper in the book 'Ultrasonics and Materials Science for Advanced Applications 
 - Presented research findings that give a high scope of advanced applications in the diagnosis of cancer and other treatments
 
 * 🌍  I'm based in Amsterdam, Netherlands
