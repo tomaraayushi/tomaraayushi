@@ -1,29 +1,32 @@
 Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aayushi Tomar
 =====================================================================================================================================
 
-Data Analyst | Data Enthusiast | Data Scientist
------------------------------------------------
+ Namaste! I'm Aayushi Tomar, a physics graduate from Delhi, India, who has successfully transitioned into the data field. With a year of experience as a Data Analyst, I developed strong skills in extracting valuable insights from complex datasets and driving business optimization.
+ I'm currently expanding my expertise in data engineering, and learning modern data engineering concepts including pipeline development, data architecture, and scalable data processing systems.
 
- Namaste! I'm Aayushi Tomar, a physics graduate from Delhi, India, who has successfully transitioned into data science.
-            With a year of experience as a Data Analyst, I've developed an ability to extract valuable insights from complex datasets, driving business optimization and innovation.<br>
-            I thrive on challenging projects, viewing them as opportunities for professional growth and creative problem-solving. My strong foundation in analytical thinking, 
-            coupled with my physics background, allows me to approach data problems with a unique perspective.
-            My goal is to excel in a dynamic professional setting, continuously learning from experienced colleagues while making meaningful contributions to solve real-world problem.
-          
+I'm passionate about building robust data infrastructure and excited to contribute to projects that solve real-world problems through effective data engineering practices.
+- 👩🏻‍🏫 I am currently learning
+   - Foundations of data engineering concepts
+   - AWS Cloud
+   - Exploring Modern Data Stack(dbt, Airflow)
+
+- Some of my projects
+   - [Capstone Project- Data Engineering Certificate]()
+   - [Spotify End-to-End Data Engineering Project Using Python and AWS]()
+
+- My Certifications and Courses
+   - [DeepLearning.AI Data Engineering](https://www.coursera.org/account/accomplishments/specialization/certificate/7QL19UF02HO4)
+   - [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/KDYPUJB3T5JX)
+   - [Programming, Data Structures And Algorithms Using Python]()
+   - [Python For Everybody](https://www.coursera.org/account/accomplishments/specialization/certificate/G845NLLNUXWJ)
+   - [CS50's Introduction to Computer Science](https://certificates.cs50.io/1f286176-4ee8-4c53-8de4-2c13e95f6ced.pdf?size=letter)
+
           
           
 
 * 🌍  I'm based in Amsterdam, Netherlands
 * ✉️  You can contact me at [aayushitomar1998@gmail.com](mailto:aayushitomar1998@gmail.com)
-* 🧠  I'm learning Data Science, Machine Learning
-* 🤝  I'm open to collaborating on Data Analysis Projects
-
-### Skills
-
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-</p>
+* 🤝  I'm open to collaborating on Data Analysis & Data Engineering Projects
 
 
 ### Socials
