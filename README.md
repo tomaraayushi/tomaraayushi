@@ -17,7 +17,7 @@ I'm passionate about building robust data infrastructure and excited to contribu
 - My Certifications and Courses
    - [DeepLearning.AI Data Engineering](https://www.coursera.org/account/accomplishments/specialization/certificate/7QL19UF02HO4)
    - [Google Data Analytics](https://www.coursera.org/account/accomplishments/specialization/certificate/KDYPUJB3T5JX)
-   - [Programming, Data Structures And Algorithms Using Python]()
+   - [Programming, Data Structures And Algorithms Using Python](https://github.com/tomaraayushi/tomaraayushi/blob/main/assets/Programming%2C%20Data%20Structures%20And%20Algorithms%20Using%20Python.jpeg)
    - [Python For Everybody](https://www.coursera.org/account/accomplishments/specialization/certificate/G845NLLNUXWJ)
    - [CS50's Introduction to Computer Science](https://certificates.cs50.io/1f286176-4ee8-4c53-8de4-2c13e95f6ced.pdf?size=letter)
 
