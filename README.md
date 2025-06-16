@@ -12,7 +12,7 @@ I'm passionate about building robust data infrastructure and excited to contribu
 
 - Some of my projects
    - [Capstone Project- Data Engineering Certificate](https://github.com/tomaraayushi/Data_Enginnering_Capstone_Project/tree/main)
-   - [Spotify End-to-End Data Engineering Project Using Python and AWS]()
+   - [Spotify End-to-End Data Engineering Project Using Python and AWS](https://github.com/tomaraayushi/Spotify_DE)
 
 - My Certifications and Courses
    - [DeepLearning.AI Data Engineering](https://www.coursera.org/account/accomplishments/specialization/certificate/7QL19UF02HO4)
