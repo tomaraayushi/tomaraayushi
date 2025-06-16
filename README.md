@@ -11,7 +11,7 @@ I'm passionate about building robust data infrastructure and excited to contribu
    - Exploring Modern Data Stack(dbt, Airflow)
 
 - Some of my projects
-   - [Capstone Project- Data Engineering Certificate]()
+   - [Capstone Project- Data Engineering Certificate](https://github.com/tomaraayushi/Data_Enginnering_Capstone_Project/tree/main)
    - [Spotify End-to-End Data Engineering Project Using Python and AWS]()
 
 - My Certifications and Courses
