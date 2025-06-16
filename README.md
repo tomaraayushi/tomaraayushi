@@ -64,7 +64,7 @@ Comprehensive capstone project demonstrating end-to-end data engineering skills 
 | 📊 [Google Data Analytics Professional Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/KDYPUJB3T5JX) | Google | ✅ Completed |
 | 🐍 [Python for Everybody Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/G845NLLNUXWJ) | University of Michigan | ✅ Completed |
 | 💻 [CS50's Introduction to Computer Science](https://certificates.cs50.io/1f286176-4ee8-4c53-8de4-2c13e95f6ced.pdf?size=letter) | Harvard University | ✅ Completed |
-| 🔍 Programming, Data Structures & Algorithms Using Python | NPTEL | ✅ Completed |
+| 🔍 [Programming, Data Structures & Algorithms Using Python](https://github.com/tomaraayushi/tomaraayushi/blob/main/assets/Programming%2C%20Data%20Structures%20And%20Algorithms%20Using%20Python.jpeg) | NPTEL | ✅ Completed |
 
 **🎓 Academic Background:** Master's in Physics | Delhi, India
 
